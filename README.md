@@ -8,7 +8,7 @@ Rar file contains
 
 
 Authors :
-Darpan Deb
-Manjeet Paul
-Cotton University
-Guwahati, Assaam , India
+Darpan Deb\
+Manjeet Paul\
+Cotton University\
+Guwahati, Assaam , India\
