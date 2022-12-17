@@ -11,4 +11,4 @@ Authors :\
 Darpan Deb\
 Manjeet Paul\
 Cotton University\
-Guwahati, Assaam , India\
+Guwahati, Assam , India
