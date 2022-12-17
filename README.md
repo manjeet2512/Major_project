@@ -7,7 +7,7 @@
 
 
 
-### Authors :\
+### Authors :
 Darpan Deb\
 Manjeet Paul\
 Cotton University\
